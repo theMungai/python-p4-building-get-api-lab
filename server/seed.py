@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# seed.py
 from random import choice as rc
 
 from app import app
